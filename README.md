@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-2517fe) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-image-prompts-ko](https://github.com/mtdvhv/wan-2-7-image-prompts-ko)
+- **Same model, other languages** — 9 more language builds: 中文 [wan-2-7-image-api-cn](https://github.com/rlq6o0i/wan-2-7-image-api-cn) · Deutsch `wan-2-7-image-api-de` · Español [wan-2-7-image-api-es](https://github.com/w4ez8p7hr0h5o/wan-2-7-image-api-es) · Français [wan-2-7-image-api-fr](https://github.com/hh8015ko/wan-2-7-image-api-fr) · Relay/gateway `wan-2-7-image-api-gateway` · Bahasa [wan-2-7-image-api-id](https://github.com/giozzasdq/wan-2-7-image-api-id) · 日本語 [wan-2-7-image-api-ja](https://github.com/oinzcy/wan-2-7-image-api-ja) · Português [wan-2-7-image-api-pt](https://github.com/cvytue/wan-2-7-image-api-pt) · Русский `wan-2-7-image-api-ru`
+- **More models in this language** — [midjourney-api-ko](https://github.com/ocvewn2-9ueo/midjourney-api-ko) · [gemini-2-5-flash-image-preview-api-ko](https://github.com/uiyflzgo/gemini-2-5-flash-image-preview-api-ko) · [nano-banana-api-ko](https://github.com/l-2jb09sq/nano-banana-api-ko) · [gemini-3-1-flash-image-preview-api-ko](https://github.com/sgc3a85h2-33l/gemini-3-1-flash-image-preview-api-ko) · [nano-banana-2-api-ko](https://github.com/jjb18r/nano-banana-2-api-ko) · [gemini-3-pro-image-preview-api-ko](https://github.com/a-me4/gemini-3-pro-image-preview-api-ko)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-image](https://github.com/topics/wan-2-7-image) · [wan-2-7-image-api](https://github.com/topics/wan-2-7-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
